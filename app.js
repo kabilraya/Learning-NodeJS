@@ -26,3 +26,4 @@ console.log(path.sep);
 const pathName = path.join("folder", "subfolder", "text.txt");
 console.log(pathName);
 console.log(path.basename(pathName));
+console.log("Hello World");
