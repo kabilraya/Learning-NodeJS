@@ -20,5 +20,3 @@ setInterval(() => {
   console.log("Hello World");
 }, 2000); //every two sec this callback is called
 //Killed by ctrl+c
-
-console.log("This runs first");
